@@ -38,7 +38,6 @@ extensions = [
     "sphinx.ext.graphviz",
     "sphinx.ext.napoleon",
     "sphinx.ext.githubpages",
-    "sphinx-jsonschema"
 ]
 
 # autodoc_default_options = {
