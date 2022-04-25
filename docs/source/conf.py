@@ -38,7 +38,6 @@ extensions = [
     "sphinx.ext.graphviz",
     "sphinx.ext.napoleon",
     "sphinx.ext.githubpages",
-    "m2r2",
     "numpydoc",
     "sphinx-jsonschema"
 ]
